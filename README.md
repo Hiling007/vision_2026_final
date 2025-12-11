@@ -1,5 +1,7 @@
 # Assignments
 
+# 具体要求见“final_test.pdf”,其他为参考资料。
+
 ## Learn Rotation
 
 * 3D Rotation Converter
